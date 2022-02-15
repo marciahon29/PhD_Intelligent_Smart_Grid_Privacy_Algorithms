@@ -1,1 +1,3 @@
 This is a sample code of LSTM. It is borrowed from : https://www.renom.jp/notebooks/tutorial/time_series/lstm-anomalydetection/notebook.html
+
+The dataset is borrowed from: https://www.kaggle.com/uciml/electric-power-consumption-data-set
