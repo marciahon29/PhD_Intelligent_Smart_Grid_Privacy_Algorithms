@@ -5,7 +5,8 @@ It has been modified for:
 - data for one month
 - Date/Time changed to consecutive numbers
 - Only used the column "Global_active_power"
-- all "?" replaced by 8
+- all "?" replaced by 0
+- 45036 total rows
 
 This is only a test dataset. For the formal case, I will investigate a larger dataset and also replace "?" by the mean
 
