@@ -7,6 +7,7 @@ It has been modified for:
 - Only used the column "Global_active_power"
 - all "?" replaced by 0
 - 45036 total rows
+- 45000 to 45036 contain the anomaly of value "9"
 
 This is only a test dataset. For the formal case, I will investigate a larger dataset and also replace "?" by the mean
 
