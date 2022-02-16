@@ -1,3 +1,5 @@
 This is a sample code of LSTM. It is borrowed from : https://www.renom.jp/notebooks/tutorial/time_series/lstm-anomalydetection/notebook.html
 
 The dataset is borrowed from: https://www.kaggle.com/uciml/electric-power-consumption-data-set
+
+This coding will be used as a foundation for all other Anomaly Detections algorithms in Task 01, meaning, it will be modified for other models such as GAN, AE, Transformer, etc.
