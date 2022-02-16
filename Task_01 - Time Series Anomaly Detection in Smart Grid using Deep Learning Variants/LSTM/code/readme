@@ -1,1 +1,5 @@
+From 45000 to 45036, the value of "9" was deliberated fixed in order to introduce an anomaly.
 
+In this code, an anomaly is detected through the "Mahalanobis' distance".
+
+Clearly, in the last graph, we can see that, indeed, the Mahalanobis distance is greatest from 45000 to 45036. Thus, indicating that there is an anomaly.
